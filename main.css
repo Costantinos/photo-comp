@@ -1,0 +1,47 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+}
+
+#photos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#photos {
+  display: flex;
+}
+#photos img {
+  width: 50%;
+  height: auto;
+}
+#votes {
+  display: flex;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #2b2d42;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+}
+
+#results {
+  margin-top: 20px;
+  color: #2b2d42;
+}
+
+#clear-btn {
+  background-color: #2b2d42;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  display: block;
+  margin: 0 auto;
+}
