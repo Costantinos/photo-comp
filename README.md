@@ -1,4 +1,4 @@
-# Photo Pair Voting Application
+# Photo Comparison Voting Application
 
 ## Introduction
 
