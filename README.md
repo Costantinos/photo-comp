@@ -17,8 +17,7 @@ This is a JavaScript-based photo pair voting application. The application displa
 
 - A modern web browser that supports JavaScript and local storage
 - Two directories containing photos to be used in the voting process
-  - You need a server for the fetch to work correctly
-    E.g., `python -m http.server 8081`
+  - You need a server for the fetch to work correctly (e.g., `python -m http.server 8081`)
 ## Usage
 
 1. Call the **createPairs** function with the two directories containing the photos. This will create an array of photo pairs to be displayed.
